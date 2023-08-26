@@ -1,2 +1,2 @@
 # AmazonClone
-I create Amazon Clone using HTML CSS
+I created Amazon Clone using HTML CSS
